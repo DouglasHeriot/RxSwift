@@ -2393,6 +2393,7 @@
 				C8A56AD81AD7424700B4673B /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		C8A56AD81AD7424700B4673B /* Products */ = {
 			isa = PBXGroup;
