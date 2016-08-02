@@ -295,7 +295,7 @@ let delegateNotSet = "Delegate not set"
 #if !DISABLE_SWIZZLING
 
 // MARK: Conversions `NSError` > `RxCocoaObjCRuntimeError`
-
+/*
 extension NSError {
     func rxCocoaErrorForTarget(_ target: AnyObject) -> RxCocoaObjCRuntimeError {
         if domain == RXObjCRuntimeErrorDomain {
@@ -327,7 +327,7 @@ extension NSError {
         return RxCocoaObjCRuntimeError.unknown(target: target)
     }
 }
-
+*/
 #endif
 
 
